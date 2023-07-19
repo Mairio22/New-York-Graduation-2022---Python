@@ -21,7 +21,7 @@ The dataset comprises main information on the following parameters:
 
 Opensource data made available by New York State Education Data [here](https://data.nysed.gov/downloads.php)
 
-## Tool
+## Tools
 
 The project used Python and Tableau. The following libraries were usd in Python:
 - Pandas
