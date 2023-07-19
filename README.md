@@ -29,6 +29,9 @@ The project used Python and Tableau. The following libraries were usd in Python:
 + Seaborn
 - Matplotlib
 - Scipy
-- sklearn
-- os
-- statsmodels.api
+- Sklearn
+- Os
+- Statsmodels.api
+
+## Visualization
+Final Tableau Dashboard was published [here](https://public.tableau.com/views/NewYorkStateHighSchoolGraduationacrossAllCounties2021-2022/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
