@@ -19,7 +19,7 @@ The dataset comprises main information on the following parameters:
 - Local Diploma Count
 - Non-diploma Count
 
-Opensource data made available by New York State Education Data [here]((https://data.nysed.gov/downloads.php))
+Opensource data made available by New York State Education Data [here](https://data.nysed.gov/downloads.php)
 
 ## Tool
 
