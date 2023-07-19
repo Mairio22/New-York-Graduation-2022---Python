@@ -21,7 +21,7 @@ The dataset comprises main information on the following parameters:
 
 Opensource data made available by New York State Education Data [here](https://data.nysed.gov/downloads.php)
 
-Addition dataset can be found ([here](https://data.nysed.gov/downloads.php)
+Additional dataset can be found [here](https://data.nysed.gov/downloads.php)
 
 ## Tools
 
