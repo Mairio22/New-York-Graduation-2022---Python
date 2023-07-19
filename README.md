@@ -20,7 +20,8 @@ The dataset comprises main information on the following parameters:
 - Non-diploma Count
 
 Opensource data made available by New York State Education Data [here](https://data.nysed.gov/downloads.php)
-Addition dataset can be found [here]([here](https://data.nysed.gov/downloads.php)
+
+Addition dataset can be found ([here](https://data.nysed.gov/downloads.php)
 
 ## Tools
 
